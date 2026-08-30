@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use LDU-Bench, please cite the associated EMNLP 2026 Industry Track paper."
+title: "LDU-Bench: Multimodal LLM Evaluation for Lithography Defect Understanding under Layout-Varying Circuit Backgrounds"
+type: dataset
+version: 1.0.0
+authors:
+  - family-names: Ji
+    given-names: Huanglong
+  - family-names: Zhao
+    given-names: Botong
+  - family-names: Lyu
+    given-names: Shujing
+  - family-names: Lu
+    given-names: Yue
+
